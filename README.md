@@ -10,7 +10,7 @@ Welcome to the **Number Guessing Game**! 🎮 It's a fun Python-based game where
 - Fun and interactive hints 🔍 ("Higher", "Lower")
 
 ## 🔧 **Requirements**:
-- Python 3.x  🐍
+- Python 3.x or higher 🐍
 
 ## 💡 **How to Play**:
 1. **Select the Difficulty** level: Easy, Medium, or Hard. (Choose wisely! 😉)
