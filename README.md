@@ -27,7 +27,7 @@ Welcome to the **Number Guessing Game**! 🎮 It's a fun Python-based game where
 ## 🚀 **Instructions**:
 1. Clone or download this repository. 💻
 2. Run the Python script in any Python environment. 🏃‍♂️
-3. Start playing! 🎮 Follow the on-screen instructions and have fun. 😄
+
 
 ## 🎮 **Example Gameplay**:
     Select Difficulty: Easy, Medium, Hard
