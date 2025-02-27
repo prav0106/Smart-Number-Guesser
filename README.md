@@ -39,7 +39,3 @@ Welcome to the **Number Guessing Game**! 🎮 It's a fun Python-based game where
     Higher number please ⬆️
     Enter your guess: 40
     Congratulations! 🎉 You guessed it in 3 attempts! 👏
-
-
-## 📄 **License**:
-This project is open-source and available under the **MIT License**. 📝
