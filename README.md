@@ -1,6 +1,6 @@
 # 🎯 **Smart Number Guesser** 🎯
 
-Welcome to the **Number Guessing Game**! 🎮 It's a fun Python-based game where you guess a randomly generated number. Choose your **difficulty** and test your guessing skills! 🤔...
+Welcome to the **Number Guessing Game**! 🎮 It's a fun Python-based game where you guess a randomly generated number. Choose your **difficulty** and test your guessing skills! 🤔..
 
 ## 🌟 **Features**:
 - **Three Difficulty Levels**: Easy, Medium, and Hard 🏆
